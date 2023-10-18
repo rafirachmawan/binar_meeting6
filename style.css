@@ -1,0 +1,58 @@
+.medali {
+text-align: center;  /* Meletakkan konten di tengah secara horizontal */
+padding: 20px 0;     /* Memberi jarak atas dan bawah untuk medali */
+}
+
+.medali i {
+font-size: 50px;    /* Anda dapat menyesuaikan ukuran sesuai kebutuhan */
+}
+
+.konten-1 h1 {
+font-size: 20px;    /* Mengurangi ukuran tulisan */
+}
+
+.konten-1 {
+text-align: center; /* Meletakkan konten di tengah secara horizontal */
+}
+/* */
+.user{
+text-align: center;
+padding: 20px;
+}
+.user i{
+    font-size: 50px;
+}
+.konten-2 h1{
+    font-size: 20px;
+}
+.konten-2 {
+    text-align: center;
+}
+/* */
+.tv{
+text-align: center;
+padding: 20px;
+}
+.tv i{
+    font-size: 50px;
+}
+.konten-3 h1{
+    font-size: 20px;
+}
+.konten-3 {
+    text-align: center;
+}
+/* */
+.film{
+text-align: center;
+padding: 20px;
+}
+.film i{
+    font-size: 50px;
+}
+.konten-4 h1{
+    font-size: 20px;
+}
+.konten-4 {
+    text-align: center;
+}
