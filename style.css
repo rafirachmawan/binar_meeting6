@@ -2,6 +2,13 @@
 text-align: center;  /* Meletakkan konten di tengah secara horizontal */
 padding: 20px 0;     /* Memberi jarak atas dan bawah untuk medali */
 }
+.container-custom-1{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
 
 .medali i {
 font-size: 50px;    /* Anda dapat menyesuaikan ukuran sesuai kebutuhan */
@@ -15,6 +22,13 @@ font-size: 20px;    /* Mengurangi ukuran tulisan */
 text-align: center; /* Meletakkan konten di tengah secara horizontal */
 }
 /* */
+.container-custom-2{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
 .user{
 text-align: center;
 padding: 20px;
@@ -29,6 +43,13 @@ padding: 20px;
     text-align: center;
 }
 /* */
+.container-custom-3{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
 .tv{
 text-align: center;
 padding: 20px;
@@ -43,6 +64,13 @@ padding: 20px;
     text-align: center;
 }
 /* */
+.container-custom-4{
+    text-align: center!important;
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+    box-sizing: border-box;
+    display: block;
+}
 .film{
 text-align: center;
 padding: 20px;
@@ -56,3 +84,4 @@ padding: 20px;
 .konten-4 {
     text-align: center;
 }
+
